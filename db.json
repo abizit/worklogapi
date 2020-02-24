@@ -1,0 +1,62 @@
+{
+  "accessToken": [
+    {
+      "id": 1,
+      "token": "n3AoE0wzelL8fL5ZNwnTEh5pDqROgIxW",
+      "expiration": 1582343753000,
+      "name": "Abhijeet Bajracharya",
+      "username": "abhijeet",
+      "type": 1,
+      "avatar": "https://picsum.photos/250"
+    },
+    {
+      "id": 2,
+      "token": "n3AoE0wzelL8fL5ZNwnTEh5pDqROgIxW",
+      "expiration": 1582343753000,
+      "name": "Studio Matrix",
+      "username": "studiomatrix",
+      "type": 2,
+      "avatar": "https://picsum.photos/250"
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "name": "Abhijeet Mananda Bajracharya",
+      "username": "abhijeet",
+      "type": 1,
+      "avatar": "https://picsum.photos/250",
+      "email": "abhijeetbajracharya@gmail.com",
+      "phone": "+977-9841746685",
+      "country": "NP",
+      "address": "Kapurdhara,SamaKhusi, Kathamandu",
+      "emailpreferences": {
+        "weeklyentries": null,
+        "dailyentries": null,
+        "overentry": null,
+        "leaverequest": true,
+        "checkin": true,
+        "tasks": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Studio Matrix Pvt. Ltd",
+      "username": "studiomatrix",
+      "type": 2,
+      "avatar": "https://picsum.photos/250",
+      "email": "contact@studiomatrix.com.np",
+      "phone": "+977-9841746685",
+      "country": "NP",
+      "address": "Nirmal Lama Marga, Nayabazaar, Kathamandu",
+      "emailpreferences": {
+        "weeklyentries": true,
+        "dailyentries": true,
+        "overentry": true,
+        "leaverequest": true,
+        "checkin": null,
+        "tasks": null
+      }
+    }
+  ]
+}
