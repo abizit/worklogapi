@@ -1,101 +1,107 @@
 {
-    "accessToken": [{
-        "id": 1,
-        "token": "n3AoE0wzelL8fL5ZNwnTEh5pDqROgIxW",
-        "expiration": 1582343753000,
-        "name": "Abhijeet Bajracharya",
-        "username": "abhijeet",
-        "type": 1,
-        "avatar": "https://placeimg.com/300/300/people"
-    }, {
-        "id": 2,
-        "token": "n3AoE0wzelL8fL5ZNwnTEh5pDqROgIxW",
-        "expiration": 1582343753000,
-        "name": "Studio Matrix",
-        "username": "studiomatrix",
-        "type": 2,
-        "avatar": "https://placeimg.com/300/300/people"
-    }],
-    "profile": [{
-        "id": 1,
-        "name": "Abhijeet Mananda Bajracharya",
-        "username": "abhijeet",
-        "type": 1,
-        "avatar": "https://placeimg.com/300/300/people",
-        "email": "abhijeetbajracharya@gmail.com",
-        "phone": "+977-9841746685",
-        "country": "NP",
-        "address": "Kapurdhara, SamaKhusi, Kathmandu",
-        "emergencycontactperson": "John Doe",
-        "emergencycontactnumber": "98414178990",
-        "gender": "Male",
-        "dateofbirth": "1985-07-12",
-        "maritalstatus": false,
-        "emailpreferences": {
-            "weeklyentries": null,
-            "dailyentries": null,
-            "overentry": null,
-            "leaverequest": true,
-            "checkin": true,
-            "tasks": true
-        },
-        "maritialstatus": true
-    }, {
-        "id": 2,
-        "name": "Studio Matrix Pvt. Ltd",
-        "username": "studiomatrix",
-        "type": 2,
-        "avatar": "https://placeimg.com/300/300/people",
-        "email": "contact@studiomatrix.com.np",
-        "phone": "+977-9841746685",
-        "country": "AU",
-        "address": "Nirmal Lama Marga, Nayabazaar, Kathmandu",
-        "emergencycontactperson": "John Doe",
-        "emergencycontactnumber": "98414178990",
-        "gender": "Male",
-        "dateofbirth": "1985-07-13",
-        "maritalstatus": false,
-        "emailpreferences": {
-            "weeklyentries": true,
-            "dailyentries": true,
-            "overentry": true,
-            "leaverequest": true,
-            "checkin": null,
-            "tasks": null
-        }
-    }],
-    "attendance-settings": {
-        "days": {
-            "monday": true,
-            "tuesday": true,
-            "wednesday": true,
-            "thursday": true,
-            "friday": true,
-            "saturday": false,
-            "sunday": false
-        },
-        "start": "09:00",
-        "end": "17:00",
-        "checkin": true,
-        "sendcheckinemail": true,
-        "ipaddresses": "192.168.88.1, 182.12.12.1",
-        "timeentryremindertime": "17:00",
-        "hours": 40,
-        "late": 15,
-        "checkinremindertime": "09:15"
+  "accessToken": [
+    {
+      "id": 1,
+      "token": "n3AoE0wzelL8fL5ZNwnTEh5pDqROgIxW",
+      "expiration": 1582343753000,
+      "name": "Abhijeet Bajracharya",
+      "username": "abhijeet",
+      "type": 1,
+      "avatar": "https://placeimg.com/300/300/people"
     },
-    "employee-settings": {
-        "documents": "Citizenship, Resume, CIT, PAN Card"
-    },
-    "company-settings": {
-        "name": "Studio Matrix",
-        "country": "NP",
-        "logo": "https://placeimg.com/300/300/any",
-        "contactemail": "contact@studiomatrix.com.np",
-        "contactnumber": "44444000",
-        "address": "Nirmal Lama Marga, Nayabazaar, Kathmandu",
-        "contactperson": "Abhijeet Bajracharya",
-        "replyemail": "no-reply@studiomatrix.om.np",
-        "replyname": "Studio Matrix"
+    {
+      "id": 2,
+      "token": "n3AoE0wzelL8fL5ZNwnTEh5pDqROgIxW",
+      "expiration": 1582343753000,
+      "name": "Studio Matrix",
+      "username": "studiomatrix",
+      "type": 2,
+      "avatar": "https://placeimg.com/300/300/people"
     }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "name": "Abhijeet Mananda Bajracharya",
+      "username": "abhijeet",
+      "type": 1,
+      "avatar": "https://placeimg.com/300/300/people",
+      "email": "abhijeetbajracharya@gmail.com",
+      "phone": "+977-9841746685",
+      "country": "NP",
+      "address": "Kapurdhara, SamaKhusi, Kathmandu",
+      "emergencycontactperson": "John Doe",
+      "emergencycontactnumber": "98414178990",
+      "gender": "Male",
+      "dateofbirth": "1985-07-12",
+      "maritalstatus": false,
+      "emailpreferences": {
+        "weeklyentries": null,
+        "dailyentries": null,
+        "overentry": null,
+        "leaverequest": true,
+        "checkin": true,
+        "tasks": true
+      },
+      "maritialstatus": true
+    },
+    {
+      "id": 2,
+      "name": "Studio Matrix Pvt. Ltd",
+      "username": "studiomatrix",
+      "type": 2,
+      "avatar": "https://placeimg.com/300/300/people",
+      "email": "contact@studiomatrix.com.np",
+      "phone": "+977-9841746685",
+      "country": "AU",
+      "address": "Nirmal Lama Marga, Nayabazaar, Kathmandu",
+      "emergencycontactperson": "John Doe",
+      "emergencycontactnumber": "98414178990",
+      "gender": "Male",
+      "dateofbirth": "1985-07-13",
+      "maritalstatus": false,
+      "emailpreferences": {
+        "weeklyentries": true,
+        "dailyentries": true,
+        "overentry": true,
+        "leaverequest": true,
+        "checkin": null,
+        "tasks": null
+      }
+    }
+  ],
+  "attendance-settings": {
+    "days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "start": "09:00",
+    "end": "17:00",
+    "checkin": true,
+    "sendcheckinemail": true,
+    "ipaddresses": "192.168.88.1, 182.12.12.1",
+    "timeentryremindertime": "17:00",
+    "hours": 40,
+    "late": 15,
+    "checkinremindertime": "09:15"
+  },
+  "employee-settings": {
+    "documents": "Citizenship, Resume, CIT, PAN Card"
+  },
+  "company-settings": {
+    "name": "Studio Matrix",
+    "country": "NP",
+    "logo": "https://placeimg.com/300/300/any",
+    "email": "contact@studiomatrix.com.np",
+    "phone": "44444000",
+    "address": "Nirmal Lama Marga, Nayabazaar, Kathmandu",
+    "timezone": "Asia/Kathmandu",
+    "website": "http://studiomatrix.com.np",
+    "type": "Information Technology & Services"
+  }
 }
