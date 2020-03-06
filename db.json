@@ -99,6 +99,7 @@
         "type": "Information Technology & Services"
     },
     "leave-types-settings": [{
+        "id": 1,
         "name": "Casual Leave",
         "type" : "Paid",
         "status" :true,
@@ -114,6 +115,7 @@
             "unused": "Lapse"
         }
     },{
+        "id": 2,
         "name": "Sick Leave",
         "type" : "Paid",
         "status" :false,
@@ -129,6 +131,7 @@
             "unused": "Lapse"
         }
     },{
+        "id": 3,
         "name": "Unpaid Leave",
         "type" : "Unpaid",
         "status" :false,
